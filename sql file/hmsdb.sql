@@ -216,18 +216,12 @@ CREATE TABLE IF NOT EXISTS `userdb` (
 
 INSERT INTO `userdb` (`id`, `name`, `email`, `password`, `date`, `gender`, `regDate`) VALUES
 (1, 'qwerty', 'sahai67@live.com', 'as', '2018-03-09', '', '2018-04-27 17:06:09'),
-(2, 'qwertyuo lsnd', 'prasad.raja.93@gmail.com', 'adsfsdgfg', '2018-03-22', 'male', '2018-04-27 17:06:09'),
-(3, 'qwertyuo lsnd', 'mefirst93@gmail.com', 'adsfsef', '1987-02-13', 'female', '2018-04-27 17:06:09'),
-(4, 'raja', 'mefirst93@gmail.com', 'Raja^132', '2018-03-09', 'male', '2018-04-27 17:06:09'),
-(12, 'Kushal Ghosh', 'kushalghosh789@gmail.com', 'janinaone', '1996-04-20', 'male', '2018-04-27 17:06:09'),
-(6, 'sanchuw', 'a@a.com', 'asd', '2018-03-08', 'female', '2018-04-27 17:06:09'),
-(7, 'cgdrgz', 'gdfg@dgd.vb', 'dsfdf', '2018-03-08', '', '2018-04-27 17:06:09'),
-(8, 'cgdrgz', 'gdfg@dgd.vb', 'dsfdf', '2018-03-08', '', '2018-04-27 17:06:09'),
-(9, 'sanchita', '1@gmail.com', '123', '2018-04-26', 'female', '2018-04-27 17:06:09'),
-(10, 'asdasd', 'a@a.aa', 'as', '5666-11-11', 'male', '2018-04-27 17:06:09'),
-(11, 'dsfsf', 'sdf@dfsrf..coam', 'as', '2018-04-01', 'female', '2018-04-27 17:06:09'),
-(13, 'Kushal Ghosh', 'kushalghosh789@gmail.com', 'as', '1984-01-01', 'male', '2018-04-27 17:06:09'),
-(16, 'Shriparna Sarkar', 'shriparnasarkar200@gmail.com', 'archanasarkar', '1996-05-01', 'female', '2018-04-28 09:15:36');
+(2, 'sanchuw', 'a@a.com', 'asd', '2018-03-08', 'female', '2018-04-27 17:06:09'),
+(3, 'cgdrgz', 'gdfg@dgd.vb', 'dsfdf', '2018-03-08', '', '2018-04-27 17:06:09'),
+(4, 'cgdrgz', 'gdfg@dgd.vb', 'dsfdf', '2018-03-08', '', '2018-04-27 17:06:09'),
+(5, 'sanchita', '1@gmail.com', '123', '2018-04-26', 'female', '2018-04-27 17:06:09'),
+(6, 'asdasd', 'a@a.aa', 'as', '5666-11-11', 'male', '2018-04-27 17:06:09'),
+(7, 'dsfsf', 'sdf@dfsrf..coam', 'as', '2018-04-01', 'female', '2018-04-27 17:06:09');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
